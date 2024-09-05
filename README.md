@@ -1,5 +1,2 @@
 # odin-recipes
-is this working
-recipe project
-In this project I'm going to make an index that holds a couple different recipes and practice pushing it to git 
-<>
+okay, now I can update things from my project and push it to git hub
